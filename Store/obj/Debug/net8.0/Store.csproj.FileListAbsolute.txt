@@ -1,0 +1,15 @@
+/Users/cris/Desktop/VISUAL_STUDIO_PROJECTS/C#Projects/Projects/Store/bin/Debug/net8.0/Store
+/Users/cris/Desktop/VISUAL_STUDIO_PROJECTS/C#Projects/Projects/Store/bin/Debug/net8.0/Store.deps.json
+/Users/cris/Desktop/VISUAL_STUDIO_PROJECTS/C#Projects/Projects/Store/bin/Debug/net8.0/Store.runtimeconfig.json
+/Users/cris/Desktop/VISUAL_STUDIO_PROJECTS/C#Projects/Projects/Store/bin/Debug/net8.0/Store.dll
+/Users/cris/Desktop/VISUAL_STUDIO_PROJECTS/C#Projects/Projects/Store/bin/Debug/net8.0/Store.pdb
+/Users/cris/Desktop/VISUAL_STUDIO_PROJECTS/C#Projects/Projects/Store/obj/Debug/net8.0/Store.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cris/Desktop/VISUAL_STUDIO_PROJECTS/C#Projects/Projects/Store/obj/Debug/net8.0/Store.AssemblyInfoInputs.cache
+/Users/cris/Desktop/VISUAL_STUDIO_PROJECTS/C#Projects/Projects/Store/obj/Debug/net8.0/Store.AssemblyInfo.cs
+/Users/cris/Desktop/VISUAL_STUDIO_PROJECTS/C#Projects/Projects/Store/obj/Debug/net8.0/Store.csproj.CoreCompileInputs.cache
+/Users/cris/Desktop/VISUAL_STUDIO_PROJECTS/C#Projects/Projects/Store/obj/Debug/net8.0/Store.sourcelink.json
+/Users/cris/Desktop/VISUAL_STUDIO_PROJECTS/C#Projects/Projects/Store/obj/Debug/net8.0/Store.dll
+/Users/cris/Desktop/VISUAL_STUDIO_PROJECTS/C#Projects/Projects/Store/obj/Debug/net8.0/refint/Store.dll
+/Users/cris/Desktop/VISUAL_STUDIO_PROJECTS/C#Projects/Projects/Store/obj/Debug/net8.0/Store.pdb
+/Users/cris/Desktop/VISUAL_STUDIO_PROJECTS/C#Projects/Projects/Store/obj/Debug/net8.0/Store.genruntimeconfig.cache
+/Users/cris/Desktop/VISUAL_STUDIO_PROJECTS/C#Projects/Projects/Store/obj/Debug/net8.0/ref/Store.dll

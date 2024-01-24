@@ -1,0 +1,14 @@
+/Users/cris/Desktop/VISUAL_STUDIO_PROJECTS/AP1_2023/AP1_2023_Assignments/Tic_Tac_Toe/bin/Debug/net7.0/Tic_Tac_Toe
+/Users/cris/Desktop/VISUAL_STUDIO_PROJECTS/AP1_2023/AP1_2023_Assignments/Tic_Tac_Toe/bin/Debug/net7.0/Tic_Tac_Toe.deps.json
+/Users/cris/Desktop/VISUAL_STUDIO_PROJECTS/AP1_2023/AP1_2023_Assignments/Tic_Tac_Toe/bin/Debug/net7.0/Tic_Tac_Toe.runtimeconfig.json
+/Users/cris/Desktop/VISUAL_STUDIO_PROJECTS/AP1_2023/AP1_2023_Assignments/Tic_Tac_Toe/bin/Debug/net7.0/Tic_Tac_Toe.dll
+/Users/cris/Desktop/VISUAL_STUDIO_PROJECTS/AP1_2023/AP1_2023_Assignments/Tic_Tac_Toe/bin/Debug/net7.0/Tic_Tac_Toe.pdb
+/Users/cris/Desktop/VISUAL_STUDIO_PROJECTS/AP1_2023/AP1_2023_Assignments/Tic_Tac_Toe/obj/Debug/net7.0/Tic_Tac_Toe.GeneratedMSBuildEditorConfig.editorconfig
+/Users/cris/Desktop/VISUAL_STUDIO_PROJECTS/AP1_2023/AP1_2023_Assignments/Tic_Tac_Toe/obj/Debug/net7.0/Tic_Tac_Toe.AssemblyInfoInputs.cache
+/Users/cris/Desktop/VISUAL_STUDIO_PROJECTS/AP1_2023/AP1_2023_Assignments/Tic_Tac_Toe/obj/Debug/net7.0/Tic_Tac_Toe.AssemblyInfo.cs
+/Users/cris/Desktop/VISUAL_STUDIO_PROJECTS/AP1_2023/AP1_2023_Assignments/Tic_Tac_Toe/obj/Debug/net7.0/Tic_Tac_Toe.csproj.CoreCompileInputs.cache
+/Users/cris/Desktop/VISUAL_STUDIO_PROJECTS/AP1_2023/AP1_2023_Assignments/Tic_Tac_Toe/obj/Debug/net7.0/Tic_Tac_Toe.dll
+/Users/cris/Desktop/VISUAL_STUDIO_PROJECTS/AP1_2023/AP1_2023_Assignments/Tic_Tac_Toe/obj/Debug/net7.0/refint/Tic_Tac_Toe.dll
+/Users/cris/Desktop/VISUAL_STUDIO_PROJECTS/AP1_2023/AP1_2023_Assignments/Tic_Tac_Toe/obj/Debug/net7.0/Tic_Tac_Toe.pdb
+/Users/cris/Desktop/VISUAL_STUDIO_PROJECTS/AP1_2023/AP1_2023_Assignments/Tic_Tac_Toe/obj/Debug/net7.0/Tic_Tac_Toe.genruntimeconfig.cache
+/Users/cris/Desktop/VISUAL_STUDIO_PROJECTS/AP1_2023/AP1_2023_Assignments/Tic_Tac_Toe/obj/Debug/net7.0/ref/Tic_Tac_Toe.dll
